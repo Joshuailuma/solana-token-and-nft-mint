@@ -1,0 +1,24 @@
+{
+    "price": 1,
+    "number": 6,
+    "symbol": "MKY",
+    "sellerFeeBasisPoints": 500,
+    "gatekeeper": null,
+    "solTreasuryAccount": null,
+    "splTokenAccount": "34dNZZJrWxGSz5FJ1HfEX6oxAYktR6RDsouMATfzrqQV",
+    "splToken": "4FLEJ34X8P7DM1CAaCtwKeBVFaax3B47HtzwnqvzHPJW",
+    "goLiveDate": "2022-07-24T00:00:00Z",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "uploadMethod": "bundlr",
+    "awsS3Bucket": null,
+    "retainAuthority": true,
+    "isMutable": true,
+    "creators": [
+        {
+            "address": "93PHQsXMbG7RvNhYGB2YJsQv7JFqcSi3Pzpew53Pmgwc",
+            "share": 100
+        }
+    ]
+}

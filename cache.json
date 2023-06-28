@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "23C9TcyB7FAnapV1ifhaHodTEZmhKb69fpEmyTTgt6yB",
+    "candyMachineCreator": "Ce1ArcUF3BSuTqM2W62imzjSEbBx6UuGXMkq84o8HpUb",
+    "collectionMint": "Gt7YoGuX4K9pxYoqcjN6qyh3TzhhF8pJQehRRdswnbe2"
+  },
+  "items": {
+    "-1": {
+      "name": "MKY NFTs",
+      "image_hash": "d6df3aa018207a1a154eed101a24dbabe62941020e59ff9e43e69fc16e7f5ea8",
+      "image_link": "https://arweave.net/DoCGRDJ6w7qeq1nsqgVV8HN-XzgVZs45ntGSeKxTiXI?ext=png",
+      "metadata_hash": "600043448fc0fa04bb265810572ca7ab5bb7216cb4610eebd7d67d414af92164",
+      "metadata_link": "https://arweave.net/5T6o3zk-IlZqFIu9yPSPpQ-XAh1PDva0CrJuW4PmObs",
+      "onChain": true
+    },
+    "0": {
+      "name": "MKY Token 1",
+      "image_hash": "d556c72172305408c9089ef3d322ed32bcdaa09de3819245f4a0c6ef60b82cfb",
+      "image_link": "https://arweave.net/M4QzcIMh5ARmipDzZfZip8UL23ns7PQDcCZY-jwwlfQ?ext=png",
+      "metadata_hash": "68bf5afea11dbcc23d7805d5620e574a63f7a91a2c9a76422d44fe69bae4b6b1",
+      "metadata_link": "https://arweave.net/rMN3s4DRyDZsg3j99MY5JqM9mpb2syb5Vo97Tl0IyQw",
+      "onChain": true
+    },
+    "1": {
+      "name": "MKY Token 2",
+      "image_hash": "57f8c26138c7002a8e4311ad588d9f733c866181890a1ad2a36aabdea478c57a",
+      "image_link": "https://arweave.net/0JUVNJ3Wpl5xY_QH5U1bBMoZW_KeWZh7VJ0IsWlbQQc?ext=png",
+      "metadata_hash": "58fb21faa401315872d7c20dec571012abe61eca2053e2f6647890a742d37510",
+      "metadata_link": "https://arweave.net/ohxzQf5khM63dOj-liFAXWtqxqsV_tyZlyA4dyT-5z0",
+      "onChain": true
+    },
+    "2": {
+      "name": "MKY Token 3",
+      "image_hash": "8e521db6901d6b03bd21d998b2dc59ed4c14423e49809f480320ecb3671ab73d",
+      "image_link": "https://arweave.net/8qm5R9O_4SzFZhzcg_J6-zicGRrE7fuFX2WrrN-Mh5Q?ext=png",
+      "metadata_hash": "dfc722a657203caa564b0ae46cf105feed930d3c97497641fdd13f5d19afe8c8",
+      "metadata_link": "https://arweave.net/o4W4G5OpkChJeaN8n9iWGjd_2NNBv61BMk4mtDik4T8",
+      "onChain": true
+    },
+    "3": {
+      "name": "MKY Token 4",
+      "image_hash": "1a5f2aea3334473492a1bf75fb6c74c4e26dc280849b174ee2a2df0c3aa4b77a",
+      "image_link": "https://arweave.net/5Vmkxy5NUCqiGGBgFxKTUnFcy_hZuKiShcRMuAg3s84?ext=png",
+      "metadata_hash": "e8ab5e31a055925f9cb28e2dbe7791c67323c43939e4917f147dee56fc310513",
+      "metadata_link": "https://arweave.net/3MmYN-V9vbOF6lIvvhYxfxXGn1Ne0TNAY_-zLfs2MEY",
+      "onChain": true
+    },
+    "4": {
+      "name": "MKY Token 5",
+      "image_hash": "517d1e2f18697e213907386b5d384ca99d1896e7fc4e1af7be2fdefe72e0204b",
+      "image_link": "https://arweave.net/WLooAgpLKshXxVXtMwiKMbdMuXlDLpTdcaz6I8uzlsI?ext=png",
+      "metadata_hash": "14262ee51942aca8ec33423c3ea8b5de562457c0eddfee2d5e07bcbb010e1990",
+      "metadata_link": "https://arweave.net/4YGihZAKob6WcsTkGbJdw3uvWd0_yHuOyQ2UwbgzCYk",
+      "onChain": true
+    },
+    "5": {
+      "name": "MKY Token 6",
+      "image_hash": "a6f12e3e5a57fa5911351512d52fbd512676231a62b191ccec6bdcf2ed23f65e",
+      "image_link": "https://arweave.net/uexG2w4bhCm2mwiJ6U3e6TCtHbFMpqjEIyNir9Ruswg?ext=png",
+      "metadata_hash": "a8fd3d854b4e574adcdfd58e83788490a250ce97051de4075ff5d96a4e717faa",
+      "metadata_link": "https://arweave.net/oB9RUBTMiwZAzVFrFY3x--5dIaLunLQVLOesZPDkGFg",
+      "onChain": true
+    }
+  }
+}

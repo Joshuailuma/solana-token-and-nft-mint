@@ -1,0 +1,21 @@
+{
+  "name": "MKY Token 3",
+  "symbol": "MKY",
+  "description": "Third MKY token",
+  "seller_fee_basis_points": 500,
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Third",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

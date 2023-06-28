@@ -1,0 +1,20 @@
+{
+  "name": "MKY Token 6",
+  "symbol": "MKY",
+  "description": "Sixth MKY token",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "Sixth",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

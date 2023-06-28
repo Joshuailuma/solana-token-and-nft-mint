@@ -1,0 +1,20 @@
+{
+  "name": "MKY Token 2",
+  "symbol": "MKY",
+  "description": "Second MKY token",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Second",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
