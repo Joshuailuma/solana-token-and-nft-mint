@@ -21,7 +21,7 @@ In this project, and spl token is created called "Josh Token", an NFT is created
 - `solana keygen` to generate an account
 - `solana airdrop 2` to fund the new account
 - `solana validate` to validate data files
-- `solana upload` to upload NFTs to arveave
+- `solana upload` to upload NFTs to arweave
 - `solana deploy` to deploy the NFT
 - `solana verify` to verify the deployed NFTs
 - `cd candy-machine-ui` to enter the frontend folder
